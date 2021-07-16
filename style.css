@@ -12,6 +12,12 @@
     --color-secondary: #e88e5a;
 }
 
+::selection
+{
+    background: var(--color-primary);
+    color: var(--color-background);
+}
+
 body
 {
     font-family: 'Encode Sans', sans-serif;
@@ -53,6 +59,7 @@ a
 {
     color: var(--color-foreground);
     text-decoration: none;
+    user-select: none;
 }
 
 a:hover
@@ -81,11 +88,18 @@ a:active
 .inactive
 {
     color: var(--color-inactive);
+    cursor: not-allowed;
+}
+
+.inactive:hover, .inactive:active
+{
+    text-decoration: none;
+    opacity: 1;
 }
 
 .inactive::after
 {
-    content: "(not finished)";
+    content: "(not complete)";
     font-size: .8em;
     position: relative;
     left: 5px;
@@ -95,4 +109,5 @@ a:active
 .colored-link
 {
     color: var(--color-secondary);
+    user-select: unset;
 }
