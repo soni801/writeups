@@ -21,6 +21,22 @@ p
     max-width: 60ch;
 }
 
+a
+{
+    color: var(--color-foreground);
+    text-decoration: none;
+}
+
+a:hover
+{
+    text-decoration: underline;
+}
+
+a:active
+{
+    opacity: .82;
+}
+
 #links > *
 {
     position: relative;
