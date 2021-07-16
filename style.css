@@ -1,0 +1,44 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+:root
+{
+    --color-background: #333;
+    --color-foreground: #ddd;
+    --color-inactive: #888;
+}
+
+body
+{
+    font-family: 'Encode Sans', sans-serif;
+    background: var(--color-background);
+    color: var(--color-foreground);
+    margin: 5rem;
+}
+
+p
+{
+    max-width: 60ch;
+}
+
+#links > *
+{
+    position: relative;
+    left: 4ch;
+    top: 1em;
+    padding: .5em 0;
+}
+
+.inactive
+{
+    color: var(--color-inactive);
+}
+
+.inactive::after
+{
+    content: "(not finished)";
+    font-size: .8em;
+    position: relative;
+    left: 5px;
+    opacity: .7;
+}
