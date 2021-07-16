@@ -1,2 +1,2 @@
 # writeups
- web page containing writeups on my various opinions
+ Web page containing write-ups on my various opinions
