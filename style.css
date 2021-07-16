@@ -54,12 +54,17 @@ a:active
     opacity: .82;
 }
 
-#links > *
+#links
 {
+    display: flex;
+    flex-direction: column;
     position: relative;
     left: 4ch;
-    top: 1em;
-    padding: .5em 0;
+}
+
+#links > *
+{
+    padding: 1em 0;
 }
 
 .inactive
