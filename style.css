@@ -32,9 +32,17 @@ h4::before
     margin-right: -.4ch;
 }
 
-p
+h3
 {
     max-width: 60ch;
+    opacity: .45;
+    font-weight: 700;
+    letter-spacing: .05ch;
+}
+
+p
+{
+    max-width: 70ch;
     line-height: 1.5em;
 }
 
