@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
 
+/* Variables */
 :root
 {
     --color-background: #333;
@@ -12,12 +13,14 @@
     --color-secondary: #e88e5a;
 }
 
+/* Selection styling */
 ::selection
 {
     background: var(--color-primary);
     color: var(--color-background);
 }
 
+/* General styling */
 body
 {
     font-family: 'Encode Sans', sans-serif;
@@ -26,6 +29,7 @@ body
     margin: 5rem;
 }
 
+/* Back button */
 h4
 {
     font-weight: 300;
@@ -41,6 +45,7 @@ h4::before
     margin-right: -.4ch;
 }
 
+/* Larger text */
 h3
 {
     max-width: 60ch;
@@ -49,12 +54,14 @@ h3
     letter-spacing: .05ch;
 }
 
+/* Normal text */
 p
 {
     max-width: 70ch;
     line-height: 1.5em;
 }
 
+/* General link styling */
 a
 {
     color: var(--color-foreground);
@@ -85,6 +92,7 @@ a:active
     padding: 1em 0;
 }
 
+/* Inactive links */
 .inactive
 {
     color: var(--color-inactive);
@@ -106,6 +114,7 @@ a:active
     opacity: .7;
 }
 
+/* Link in text */
 .colored-link
 {
     color: var(--color-secondary);
