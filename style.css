@@ -21,6 +21,11 @@
 }
 
 /* General styling */
+html
+{
+    scroll-behavior: smooth;
+}
+
 body
 {
     font-family: 'Encode Sans', sans-serif;
@@ -115,7 +120,7 @@ a:active
 }
 
 /* Link in text */
-.colored-link
+.colored-link, sup > a
 {
     color: var(--color-secondary);
     user-select: unset;
