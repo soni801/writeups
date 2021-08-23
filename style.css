@@ -1,26 +1,37 @@
-/* Fonts */
+/* STYLESHEET TABLE OF CONTENTS
+    1 Setup
+        1.1 Fonts
+        1.2 Variables
+        1.3 General styling
+    2 Tags
+        2.1 Title
+        2.2 Subtitles
+        2.3 Links
+        2.4 Paragraphs
+        2.5 Back button
+    3 Sections
+        3.1 Top gradient
+        3.2 Links
+        3.3 Footnotes
+    4 Inactive
+ */
+
+/* 1.1 Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
 
-/* Variables */
+/* 1.2 Variables */
 :root
 {
-    --color-background: #333;
-    --color-foreground: #ddd;
-    --color-inactive: #888;
+    --foreground: #ffffffaa;
+    --background: #222;
+    --inactive: #ffffff40;
+    --highlight: #BD8851;
 
-    --color-primary: #3ba3a1;
-    --color-secondary: #e88e5a;
+    --gradient: linear-gradient(to right, #659999, #f4791f);
 }
 
-/* Selection styling */
-::selection
-{
-    background: var(--color-primary);
-    color: var(--color-background);
-}
-
-/* General styling */
+/* 1.3 General styling */
 html
 {
     scroll-behavior: smooth;
@@ -29,47 +40,37 @@ html
 body
 {
     font-family: 'Encode Sans', sans-serif;
-    background: var(--color-background);
-    color: var(--color-foreground);
-    margin: 5rem;
+    background: var(--background);
+    color: var(--foreground);
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow-x: hidden;
 }
 
-/* Back button */
-h4
+/* 2.1 Title */
+h1
 {
-    font-weight: 300;
-    letter-spacing: .3ch;
-    text-transform: uppercase;
+    font-size: 5rem;
+    color: #00000070;
+    margin-bottom: 10rem;
+    text-shadow: #00000030 0 0 2rem;
 }
 
-h4::before
-{
-    content: "< ";
-    font-family: 'Oswald', sans-serif;
-    font-size: 1.2em;
-    margin-right: -.4ch;
-}
-
-/* Larger text */
+/* 2.2 Subtitles */
 h3
 {
-    max-width: 60ch;
-    color: var(--color-primary);
-    font-weight: 700;
-    letter-spacing: .05ch;
+    max-width: 45rem;
+    color: var(--highlight);
+    font-size: 1.3rem;
+    font-weight: 800;
 }
 
-/* Normal text */
-p
-{
-    max-width: 70ch;
-    line-height: 1.5em;
-}
-
-/* General link styling */
+/* 2.3 Links */
 a
 {
-    color: var(--color-foreground);
+    color: var(--highlight);
     text-decoration: none;
     user-select: none;
 }
@@ -81,26 +82,74 @@ a:hover
 
 a:active
 {
-    opacity: .82;
+    opacity: .8;
 }
 
+/* 2.4 Paragraphs */
+p
+{
+    max-width: 45rem;
+    line-height: 1.5em;
+    margin-bottom: 2rem;
+}
+
+/* 2.5 Back button */
+h4
+{
+    position: absolute;
+    top: 2rem;
+    left: calc(2rem + 1ch);
+    margin: 0;
+    font-size: 1.2rem;
+    font-weight: 800;
+    letter-spacing: .3ch;
+    text-transform: uppercase;
+    color: #00000070;
+}
+
+h4::before
+{
+    content: "< ";
+    font-family: 'Oswald', sans-serif;
+    font-size: 1.2em;
+    margin-right: -.4ch;
+}
+
+/* 3.1 Top gradient */
+#gradient
+{
+    position: relative;
+    width: 100vw;
+    height: 30rem;
+    background: var(--gradient);
+    transform: skewY(-5deg) translateY(-15rem);
+    margin-bottom: -30rem;
+    border-radius: 2rem;
+    z-index: -1;
+    box-shadow: #00000080 0 0 2rem;
+}
+
+/* 3.2 Links */
 #links
 {
     display: flex;
     flex-direction: column;
-    position: relative;
-    left: 4ch;
+    gap: 1.5rem;
+    margin-top: 2rem;
 }
 
-#links > *
+/* 3.3 Footnotes */
+#footnotes
 {
-    padding: 1em 0;
+    font-size: .9em;
+    color: var(--inactive);
+    margin-bottom: 5rem;
 }
 
-/* Inactive links */
+/* 4 Inactive */
 .inactive
 {
-    color: var(--color-inactive);
+    color: var(--inactive);
     cursor: not-allowed;
 }
 
@@ -117,18 +166,4 @@ a:active
     position: relative;
     left: 5px;
     opacity: .7;
-}
-
-/* Link in text */
-.colored-link, sup > a
-{
-    color: var(--color-secondary);
-    user-select: unset;
-}
-
-/* Footnotes */
-#footnotes
-{
-    font-size: .9em;
-    color: var(--color-inactive);
 }
