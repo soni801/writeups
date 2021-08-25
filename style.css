@@ -40,13 +40,14 @@ html
 
 body
 {
-    font-family: 'Encode Sans', sans-serif;
-    background: var(--background);
-    color: var(--foreground);
-    margin: 0;
     display: flex;
     flex-direction: column;
     align-items: center;
+    position: absolute;
+    margin: 0;
+    background: var(--background);
+    color: var(--foreground);
+    font-family: 'Encode Sans', sans-serif;
     overflow-x: hidden;
 }
 
