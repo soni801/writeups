@@ -82,6 +82,16 @@ a:not(.inactive)
             &:active { color: rgba(values.$light, .4); }
         }
 
-        &.inactive { cursor: not-allowed }
+        &.inactive
+        {
+            cursor: not-allowed;
+
+            &::after
+            {
+                padding-left: 1ch;
+                content: '(not finished)';
+                font-size: .75em;
+            }
+        }
     }
 }
