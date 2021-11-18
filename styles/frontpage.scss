@@ -1,0 +1,87 @@
+/* STYLESHEET TABLE OF CONTENTS
+    1 Initialisation
+        1.1 Variables
+        1.2 Fonts
+        1.3 Global
+    2 Elements
+        2.1 Title
+        2.2 Text
+        2.3 Navigation
+ */
+
+// 1.1 Variables
+@use "values";
+
+// 1.2 Fonts
+@import url('https://fonts.googleapis.com/css2?family=Shippori+Antique&display=swap');
+
+// 1.3 Global
+* { margin: 0; }
+
+html
+{
+    scroll-behavior: smooth;
+}
+
+body
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: values.$gradient;
+    color: values.$dark;
+    font-family: 'Shippori Antique', sans-serif;
+}
+
+#content
+{
+    display: flex;
+    flex-direction: column;
+}
+
+// 2.1 Title
+h1
+{
+    padding: 3rem;
+    color: values.$light;
+    font-size: 3rem;
+}
+
+// 2.2 Text
+p
+{
+    max-width: 50rem;
+    color: rgba(values.$light, .8);
+}
+
+a:not(.inactive)
+{
+    color: inherit;
+
+    &:hover { color: rgba(values.$light, .5); }
+    &:active { color: rgba(values.$light, .3); }
+}
+
+// 2.3 Navigation
+#navigation
+{
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+    gap: 1rem;
+
+    a
+    {
+        width: max-content;
+
+        &:not(.inactive)
+        {
+            color: values.$light;
+
+            &:hover { color: rgba(values.$light, .7); }
+            &:active { color: rgba(values.$light, .4); }
+        }
+
+        &.inactive { cursor: not-allowed }
+    }
+}
