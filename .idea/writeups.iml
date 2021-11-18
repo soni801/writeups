@@ -8,5 +8,6 @@
     <orderEntry type="library" name="jquery-3.6.0" level="application" />
     <orderEntry type="library" name="@webcomponents/webcomponentsjs" level="application" />
     <orderEntry type="library" name="zero-md" level="application" />
+    <orderEntry type="library" name="github-markdown" level="application" />
   </component>
 </module>

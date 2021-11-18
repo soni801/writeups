@@ -1,20 +1,18 @@
 /* STYLESHEET TABLE OF CONTENTS
     1 Initialisation
-        1.1 Fonts
-        1.2 Variables
+        1.1 Variables
+        1.2 Fonts
         1.3 Global
     2 Sections
         2.1 Title
         2.2 Content
  */
 
-// 1.1 Fonts
-@import url('https://fonts.googleapis.com/css2?family=Shippori+Antique&display=swap');
+// 1.1 Variables
+@use "values";
 
-// 1.2 Variables
-$dark: black; // Placeholder
-$light: #ededf4;
-$gradient: linear-gradient(to right, #2c3e50, #4ca1af);
+// 1.2 Fonts
+@import url('https://fonts.googleapis.com/css2?family=Shippori+Antique&display=swap');
 
 // 1.3 Global
 *
@@ -29,8 +27,8 @@ html
 
 body
 {
-    background: $light;
-    color: $dark;
+    background: values.$light;
+    color: values.$dark;
 }
 
 // 2.1 Title
@@ -39,8 +37,8 @@ h1
     display: grid;
     place-items: center;
     height: 100vh;
-    background: $gradient;
-    color: $light;
+    background: values.$gradient;
+    color: values.$light;
     font-size: 3rem;
     font-family: 'Shippori Antique', sans-serif;
 }
@@ -51,8 +49,8 @@ zero-md
     margin: 0 auto;
     padding: 3rem;
     width: 58rem;
-    background: $light;
+    background: values.$light;
     border-radius: 1rem;
-    box-shadow: 0 0 2rem rgba($dark, .1);
+    box-shadow: 0 0 2rem rgba(values.$dark, .1);
     transform: translateY(-5rem);
 }

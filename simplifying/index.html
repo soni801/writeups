@@ -5,7 +5,7 @@
         <!-- Metadata -->
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="stylesheet" href="/style.css">
+        <link rel="stylesheet" href="/styles/main.css">
         <title>Why simplifying logos is good</title>
         <meta name="theme-color" content="#3ba3a1">
 
@@ -22,6 +22,11 @@
         <h1>Why simplifying logos is good</h1>
 
         <!-- Content -->
-        <zero-md src="content.md"></zero-md>
+        <zero-md src="content.md">
+            <template>
+                <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/sindresorhus/github-markdown-css@4/github-markdown.min.css">
+                <link rel="stylesheet" type="text/css" href="/styles/markdown.css">
+            </template>
+        </zero-md>
     </body>
 </html>

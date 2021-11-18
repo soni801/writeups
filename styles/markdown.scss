@@ -1,0 +1,11 @@
+@use "values";
+
+*
+{
+    color: values.$dark;
+}
+
+a
+{
+    color: values.$accent !important;
+}
