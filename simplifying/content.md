@@ -1,5 +1,7 @@
 # Why simplifying logos is good
 
+[![Author](/assets/images/authors/Soni.png)](https://twitter.com/soni801_)
+
 ---
 
 ### Recently, lots of brands have changed their appearance either by changing their logo, theme, or name. When Discord also did this, it caused a massive online discussion about companies simplifying their logo. I myself, unlike most people, am of the opinion that this in most cases is to benefit of the company. As someone that has studied and worked with logo/graphic design, I wrote my opinion, originally in the Portal 2 Discord server:

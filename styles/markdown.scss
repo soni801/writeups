@@ -9,3 +9,10 @@ a
 {
     color: values.$accent !important;
 }
+
+img
+{
+    background: transparent !important;
+
+    &[alt=Author] { max-width: 16rem; }
+}

@@ -1,5 +1,7 @@
 # Before we argue
 
+[![Author](/assets/images/authors/Soni.png)](https://twitter.com/soni801_)
+
 ---
 
 ### As our world gets more and more hostile towards healthy discussions, it's clear that I have different views on how a discussion should take place than what a lot of other people have. Before we have a discussion, kindly read through this, so we can try to keep it as good as possible.
