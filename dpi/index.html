@@ -14,19 +14,20 @@
         <meta name="og:description" content="Here's the reason why I use 18,000 DPI">
     </head>
     <body>
-        <a href="/"><h4>Back</h4></a>
+        <!-- Header -->
+        <div id="header">
+            <a id="home" href="/"><img src="/assets/icons/house.svg" alt="Home"></a>
+        </div>
 
-        <div id="gradient"></div>
+        <!-- Title -->
         <h1>Why I use 18,000 DPI</h1>
 
-        <h3>Introduction</h3>
-
-        <div id="content">
-            <p>Content</p>
-        </div>
-
-        <div id="footnotes">
-            <p>Footnotes</p>
-        </div>
+        <!-- Content -->
+        <zero-md src="content.md">
+            <template>
+                <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/sindresorhus/github-markdown-css@4/github-markdown.min.css">
+                <link rel="stylesheet" type="text/css" href="/styles/markdown.css">
+            </template>
+        </zero-md>
     </body>
 </html>

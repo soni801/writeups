@@ -34,21 +34,18 @@ body
 {
     position: absolute;
     left: 50%;
-    text-transform: uppercase;
     margin: 1rem;
     transform: translateX(-50%);
 
     a
     {
+        display: block;
+        width: 2rem;
         padding-right: 2rem;
-        color: unset;
-        font-size: 2rem;
-        font-family: 'Montserrat', sans-serif;
-        text-decoration: none;
         transition: 200ms ease;
 
-        &:hover { color: rgba(values.$light, .7); }
-        &:active { color: rgba(values.$light, .4); }
+        &:hover { filter: opacity(.6); }
+        &:active { filter: opacity(.3); }
     }
 }
 
