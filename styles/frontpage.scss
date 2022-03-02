@@ -54,7 +54,7 @@ p
     color: rgba(values.$light, .8);
 }
 
-a:not(.inactive)
+a
 {
     font-weight: bold;
     color: values.$light;
@@ -74,25 +74,9 @@ a:not(.inactive)
     a
     {
         width: max-content;
+        color: values.$light;
 
-        &:not(.inactive)
-        {
-            color: values.$light;
-
-            &:hover { color: rgba(values.$light, .7); }
-            &:active { color: rgba(values.$light, .4); }
-        }
-
-        &.inactive
-        {
-            cursor: not-allowed;
-
-            &::after
-            {
-                padding-left: 1ch;
-                content: '(not finished)';
-                font-size: .75em;
-            }
-        }
+        &:hover { color: rgba(values.$light, .7); }
+        &:active { color: rgba(values.$light, .4); }
     }
 }
