@@ -2,13 +2,14 @@
 
 [![Author](/assets/images/authors/Soni.png)](https://twitter.com/soni801_)
 
-**Last updated 19/02/2022**
+**Last updated 24/03/2022**
 
 ---
 
-Many of you may know that this write-up has been in the working for several months now. And you might ask yourself: wow,
-have you finally managed to complete the write-up? ...no. Not really. But this was way overdue, so I decided to release
-a shorter version first:
+Many of you may know that this write-up has been in the working for several months now. And you might now ask yourself:
+is the write-up finally completed? The short answer to that is no - not really. But this was way overdue, so I decided
+to release a shorter version first. Keep in mind that this write-up is not perfected, but more of a minor article that
+tries to explain my point of view before I release the main article, which is still quite far off.
 
 ### The Pride movement has been growing in popularity for a long time, but it has exploded during the last few years. Our society is moving towards a place that would be detrimental to the world as we know it, so I think it's important to discuss the darker sides of this ideology before doing even more with it. You see, there's a lot of things that are not that apparent from the Pride movement's jovial advertisement for the ideology.
 
