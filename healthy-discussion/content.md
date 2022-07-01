@@ -2,7 +2,7 @@
 
 [![Author](/assets/images/authors/Soni.png)](https://twitter.com/soni801_)
 
-**Last updated 02/03/2022**
+**Last updated 01/07/2022** (dd/mm/yyyy)
 
 ---
 
