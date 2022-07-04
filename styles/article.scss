@@ -58,6 +58,7 @@ h1
     background: values.$gradient;
     font-size: 3rem;
     font-family: 'Shippori Antique', sans-serif;
+    text-align: center;
 }
 
 // 3.2 Content
@@ -65,7 +66,7 @@ zero-md
 {
     margin: 0 auto;
     padding: 3rem;
-    width: 56rem;
+    max-width: 56rem;
     background: values.$light;
     border-radius: 1rem;
     box-shadow: 0 0 2rem rgba(values.$dark, .1);
