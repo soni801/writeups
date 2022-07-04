@@ -10,9 +10,21 @@ a
     color: values.$accent !important;
 }
 
+h1, h2, h3, h4, h5, h6
+{
+    background: values.$gradient right;
+    background-size: 175%;
+    -webkit-background-clip: text;
+    color: transparent;
+    line-height: 1.5 !important;
+}
+
 img
 {
     background: transparent !important;
 
-    &[alt=Author] { max-width: 16rem; }
+    &[alt=Author]
+    {
+        max-width: 16rem;
+    }
 }
