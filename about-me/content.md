@@ -21,12 +21,15 @@ interests within IT. I do programming and general server/IT operation and I love
 However, I differ from the norm in that I care a lot about the quality about a conversation, even to the point of where
 I made a write-up explaining [what I think defines a healthy discussion](/healthy-discussion/). Unfortunately, the fact
 that I love discussions does create bad situations as I often find myself in arguments about trivial matters, something
-that annoys a lot of the people around me. Let me try to explain why:
+that annoys a lot of the people around me. Let me try to explain why this keeps happening:
 
 ### ADHD
 
 I have ADHD. Well, sort of. Well, I do, but not 'officially'. Explaining this might be difficult, but I'll try to give
-you the short version: The Norwegian healthcare system sucks.
+you the short version: The Norwegian healthcare system sucks. Put simply, only some specific doctors are allowed to
+assign diagnoses to you. It doesn't matter whether you have a certain condition, it doesn't matter whether some doctors
+agree, it in some cases doesn't even matter if your GP or primary doctors agree that you have the condition, you aren't
+able to get certain diagnoses unless you talk to some very specific people.
 
 ### Psychopathy
 
