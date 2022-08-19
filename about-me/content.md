@@ -2,7 +2,7 @@
 
 [![Author](/assets/images/authors/Soni.png)](https://twitter.com/soni801_)
 
-**Last updated 15/08/2022** (dd/mm/yyyy)
+**Last updated 19/08/2022** (dd/mm/yyyy)
 
 ---
 
@@ -63,7 +63,7 @@ personal experience and the experience of others I have talked to, but definitio
 from well renowned sources like [Oxford Languages](https://languages.oup.com/google-dictionary-en/) and
 [Healthline Media](https://www.healthline.com/).
 
-ADHD stands for attention deficit hyperactivity disorder, and the name itself describes it to a certain degree. It is
+ADHD stands for _attention deficit hyperactivity disorder_, and the name itself describes it to a certain degree. It is
 most commonly perceived as something that lowers your ability to pay attention, and gives you short bursts of energy,
 called hyperactivity. The problem with ADHD is that it is a very broad term. Not only can ADHD differ wildly from person
 to person, it also has several 'sub-conditions' and sets of traits that vary a lot. Because of this, I will talk about
@@ -80,13 +80,15 @@ More related to the social aspect of life, it makes me not think through what I 
 think about something before saying it, whereas I say something, then think about what I said. This can often come off
 as rude, as I don't realise I'm insulting someone or something before after I've said it. It can also put me in a lot of
 conversations I didn't really intend to start, as well as making me say things that is worded badly or in some cases
-not even correct.
+not even correct. In addition, it can give me sudden bursts of energy during a conversation, especially when I am 
+engaged in the subject at hand. This often makes me talk faster, less accurate and only worsens the problems previously
+mentioned.
 
 On the contrary, it also makes me less able to make decisions. In medical terms, this is called 'executive dysfunction'.
 In layman's terms, it makes it harder for me to take actions or just do something. It affects my ability to choose
 activities, it makes it harder to plan, it affects time management, and makes it harder to organise myself or my
 environment. It also makes me more likely to procrastinate, and overall less able to find motivation or energy to work
-on a given project or activity.
+on a given project or activity. Executive dysfunction isn't exclusive to ADHD, but is commonly correlated with it.
 
 ADHD also impacts my memory. I will often forget things, names, voices or even faces. If you tell me to remember
 something or remind you of something, chances are I will forget. I might even forget something only a few seconds after
@@ -95,53 +97,39 @@ Unfortunately, todo lists or reminders don't really help. Combining bad memory w
 lists just fill up more and more, until the point where there's so much on my list that I struggle navigating it. So if
 I forget something, it is not to be rude, it is simply that I can't remember.
 
+[//]: # (Notes for later)
 
-[//]: # ()
-[//]: # (bursts of energy in the context of engaging conversations)
+if I were to try to explain the "impulsiveness" it to someone that doesn't have it, its like you get these sudden inner urges to do something, and if you don't satisfy it (do the thing), you get lightheaded often, aren't able to pay attention to literally anything (including things you enjoy), and feel an inner anger or dissatisfaction, and cant feel in comfort with yourself or your life. and this will usually go on for months unless you do the thing, now you can probably understand that this is a huge problem, especially if "the thing" involves large financial resources. its also very normal to have "urge relapses", which is not pleasant at all.
 
-[//]: # ()
-[//]: # (if i were to try to explain the "impulsiveness" it to someone that doesn't have it, its like you get these sudden inner urges to do something, and if you don't satisfy it &#40;do the thing&#41;, you get lightheaded often, aren't able to pay attention to literally anything &#40;including things you enjoy&#41;, and feel an inner anger or dissatisfaction, and cant feel in comfort with yourself or your life. and this will usually go on for months unless you do the thing, now you can probably understand that this is a huge problem, especially if "the thing" involves large financial resources. its also very normal to have "urge relapses", which is not pleasant at all.)
+executive dysfunction is a really weird and unexplainable feeling that you are just unable to do an action, but you just can't do it, even if you need to, and you even really want to, you just, can't.
 
-[//]: # ()
-[//]: # (on the other hand however, we also have executive dysfunction, which is a really weird combination &#40;i assume you're known to this, so i wont elaborate that deeply&#41;, but its the feeling that you are just unable to do an action, usually this is something that has to be done to achieve better finances or happiness, but you just can't do it, even if you need to and you even really want to, you just, can't. it's really weird and unexplainable really if you haven't experienced it yourself.)
+I would say my biggest fear is to not be able to control, or at the very least moderate or even influence my own actions or thoughts, but thats kind of already the case
 
-[//]: # ()
-[//]: # (although, i should mention, executive dysfunction is not exclusive to adhd, its also one of the most common consequences of moderate/severe depression, and also not rare to occationally encounter)
+i don't think I have autism, because im generally not terrible at social interactions n shit, but sometimes it makes me wonder how and why i can relate so well to people with autism and multiple of the symptoms it has
 
-[//]: # ()
-[//]: # (i would say my biggest fear is to not be able to control, or at the very least moderate or even influence my own actions or thoughts, but thats kind of already the case)
+one of the things I hate with myself is that I cant figure out if something is a joke or if it's serious, even irl - and it kinda comes with this embarrassment which i dont like, because people dont understand that i quite literally dont get jokes, even if i try to explain it to them
 
-[//]: # ()
-[//]: # (i dont think i have autism, because im generally not terrible at social interactions n shit, but sometimes it makes me wonder how and why i can relate so well to people with autism and multiple of the symptoms it has)
+if the person talking is someone I know, I may sometimes be able to get some jokes or irony based on how they usually talk and their personality, if i set off a lot of time, but i'd never have a chance at recognising irony in someone i dont know
 
-[//]: # ()
-[//]: # (one of the things i hate with myself is that i cant figure out if something is a joke or if it's serious, even irl - and it kinda comes with this embarrasement which i dont like, because people dont understand that i quite literally dont get jokes, even if i try to explain it to them)
+some people might not have "read the room" the same as you, or not read the entire context. So I can totally see either side happening. Though I do see myself struggling to know that that was a joke if you didn't tell me that outright
 
-[//]: # ()
-[//]: # (if the person talking is someone i know, i may sometimes be able to get some jokes or irony based on how they usually talk and their personality, if i set off a lot of time, but i'd never have a chance at recognising irony in someone i dont know)
+Tone is very hard to express in a way everyone understands the same
 
-[//]: # ()
-[//]: # (Was waiting for you to finish :&#41; Yea, some people might not have "read the room" the same as you, or not read the entire context. So I can totally see either side happening. Though I do see myself struggling to know that that was a joke if you didn't tell me that outright)
+and another thing that i struggle with a lot and that really impacts me: not being able to understand context or base principles without them being specifically told to me, because then i remain with less knowledge than others in a given situation, and more often than its not appropriate to ask for information, as that usually just makes people label me as "puttng my nose in others business" or something similar, and me being percieved in a bad way when all i wanted was context
 
-[//]: # (Tone is very hard to express in a way everyone understands the same)
+and its not just me missing out on a lot of context, its me not getting context clues that should be really obvious from the get go, that "everyone else" understands
 
-[//]: # ()
-[//]: # (and another thing that i struggle with a lot and that really impacts me: not being able to understand context or base principles without them being specifically told to me, because then i remain with less knowledge than others in a given situation, and more often than its not appropriate to ask for information, as that usually just makes people label me as "puttng my nose in others business" or something similar, and me being percieved in a bad way when all i wanted was context)
+missing context clues that someone is going to continue talking, I could have asked "are you done?" but that could be seen as rude. And is definitely not "natural" in a conversation
 
-[//]: # ()
-[//]: # (and its not just me missing out on a lot of context, its me not getting context clues that should be really obvious from the get go, that "everyone else" understands)
+Other fun things include being asked "why did you do that?" and my answer is genuinely "I don't know" because my brain (who I perceive as separate from me) just told me to do it. It really makes me feel like a kid though :(
 
-[//]: # ()
-[//]: # (Like, I missed the context clue here that Krzy was going to continue with something. I mean, I could have asked "are you done?" but that could be seen as rude. And is definitely not "natural" in a conversation)
+why first response would be "what is that?" or "what do you mean"
 
-[//]: # ()
-[//]: # (Other fun things include being asked "why did you do that?" and my answer is genuinely "I don't know" because my brain &#40;who I perceive as separate from me&#41; just told me to do it. It really makes me feel like a kid though :&#40;)
+what i would get back is usually along the lines of "you know what i mean" or "are you dumb"
 
-[//]: # ()
-[//]: # (why first response would be "what is that?" or "what do you mean")
+trauma about people leaving me
 
-[//]: # ()
-[//]: # (what i would get back is usually along the lines of "you know what i mean" or "are you dumb")
+'half-baked' projects or results
 
 ### Psychopathy
 
