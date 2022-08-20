@@ -12,8 +12,9 @@ I may have directed you to this write-up if you're asking questions about my beh
 or rude towards you. If the latter, I'm sorry. I won't justify my actions, but I'll try to explain why they might have
 happened.
 
-In this write-up, I'll roughly cover 3 main subjects:
+In this write-up, I'll briefly go over 4 main subjects:
 - [ADHD](#adhd)
+- [Social incompetence](#social-incompetence)
 - [Psychopathy](#psychopathy)
 - [Depression](#depression)
 
@@ -21,11 +22,12 @@ In this write-up, I'll roughly cover 3 main subjects:
 > recommend not reading the section regarding depression, or avoid the write-up altogether.
 
 But first a small introduction. I am Samuel, but go by 'Soni' online. I'm Norwegian and work within IT, as well as have
-interests within IT. I do programming and general server/IT operation and I love discussions, especially technical ones.
-However, I differ from the norm in that I care a lot about the quality about a conversation, even to the point of where
-I made a write-up explaining [what I think defines a healthy discussion](/healthy-discussion/). Unfortunately, the fact
-that I love discussions does create bad situations as I often find myself in arguments about trivial matters, something
-that annoys a lot of the people around me. Let me try to explain why this keeps happening:
+interests within IT. I do programming, lighting and general server/IT operation, both professionally and in my free
+time. I love discussions, especially technical ones. However, I differ from the norm in that I care a lot about the
+quality about a conversation, even to the point of where I made a write-up explaining
+[what I think defines a healthy discussion](/healthy-discussion/). Unfortunately, the fact that I love discussions does
+create bad situations as I often find myself in arguments about trivial matters, something that annoys a lot of the
+people around me. Let me try to explain why this keeps happening:
 
 ### ADHD
 
@@ -84,52 +86,70 @@ not even correct. In addition, it can give me sudden bursts of energy during a c
 engaged in the subject at hand. This often makes me talk faster, less accurate and only worsens the problems previously
 mentioned.
 
+This impulsiveness can also give me sudden urges to do a certain activity. The problem with ADHD is that if this urge
+doesn't get satisfied, it can both grow in intensity and give you unwanted side effects such as lightheadedness, severe
+extended loss of focus, or a feel of inner anger, dissatisfaction or discomfort. These feelings can often stay for
+several months unless you do the activity you had urges for. This can be a major problem, especially if it involves a
+significant financial decision, and makes ADHD control me more than I can control it.
+
 On the contrary, it also makes me less able to make decisions. In medical terms, this is called 'executive dysfunction'.
-In layman's terms, it makes it harder for me to take actions or just do something. It affects my ability to choose
-activities, it makes it harder to plan, it affects time management, and makes it harder to organise myself or my
-environment. It also makes me more likely to procrastinate, and overall less able to find motivation or energy to work
-on a given project or activity. Executive dysfunction isn't exclusive to ADHD, but is commonly correlated with it.
+This is somewhat difficult to fully explain to someone that hasn't experienced it themselves, but in layman's terms it
+makes it harder for me to take actions or just do something. It affects my ability to choose activities, it makes it
+harder to plan, it affects time management, and makes it harder to organise myself or my environment. It also makes me
+more likely to procrastinate, and overall less able to find motivation or energy to work on a given project or activity.
+Executive dysfunction isn't exclusive to ADHD, but is commonly correlated with it.
 
 ADHD also impacts my memory. I will often forget things, names, voices or even faces. If you tell me to remember
 something or remind you of something, chances are I will forget. I might even forget something only a few seconds after
-I had the thought. Combined with executive dysfunction, this can make me really unproductive in certain conditions.
-Unfortunately, todo lists or reminders don't really help. Combining bad memory with executive dysfunction, all my todo
-lists just fill up more and more, until the point where there's so much on my list that I struggle navigating it. So if
-I forget something, it is not to be rude, it is simply that I can't remember.
+I had the thought. Combined with executive dysfunction, this can make me really unproductive in certain conditions, and
+can even cause me to completely forget about some of my projects, leaving them unfinished and untouched. Unfortunately,
+todo lists or reminders don't really help. Combining bad memory with executive dysfunction, all my todo lists just fill
+up more and more, until the point where there's so much on my list that I struggle navigating it. So if I forget
+something, it is not to be rude, it is simply that I can't remember.
 
-[//]: # (Notes for later)
+I am a programmer, and I love logical thinking and problem-solving. Because of that, my biggest fear has always been to
+not be able to control, moderate, or even influence my own actions or thoughts. Unfortunately, my ADHD has pretty much
+made that fear into reality, especially when it is unmedicated, as it currently is. I can often get asked 'why did you
+do that?' and my answer is genuinely 'I don't know' because my brain (which I perceive as separate from me) just told me
+to do it. It really does just feel like I have little to say about my own actions, my brain just kind of does them for
+me.
 
-if I were to try to explain the "impulsiveness" it to someone that doesn't have it, its like you get these sudden inner urges to do something, and if you don't satisfy it (do the thing), you get lightheaded often, aren't able to pay attention to literally anything (including things you enjoy), and feel an inner anger or dissatisfaction, and cant feel in comfort with yourself or your life. and this will usually go on for months unless you do the thing, now you can probably understand that this is a huge problem, especially if "the thing" involves large financial resources. its also very normal to have "urge relapses", which is not pleasant at all.
+It might seem like I am 'blaming' my ADHD for all the negative sides of me, but that is really not what I am trying to
+do. I am just trying to explain why I behave like I do, because there is a lot I genuinely can't control about myself.
 
-executive dysfunction is a really weird and unexplainable feeling that you are just unable to do an action, but you just can't do it, even if you need to, and you even really want to, you just, can't.
+### Social incompetence
 
-I would say my biggest fear is to not be able to control, or at the very least moderate or even influence my own actions or thoughts, but thats kind of already the case
+Moving forward on the topic of ADHD, it is naturally to talk about social competence, or in my case, social
+_incompetence_. ADHD has a very similar 'sister-condition': autism. Autism and ADHD has a pretty large overlap when it
+comes to both symptoms, traits and effects. Autism also differs wildly from person to person, meaning that I will once
+again need to do some generalisation when talking about it.
 
-i don't think I have autism, because im generally not terrible at social interactions n shit, but sometimes it makes me wonder how and why i can relate so well to people with autism and multiple of the symptoms it has
+I do not think I have autism, but I have several traits from my ADHD that resembles the ones generally found in autism.
+Generally, I can participate in conversations without major issues, but there are some areas where I have trouble. One
+of my major problems is often not being able to tell whether something is a joke. If I am talking to someone I have
+known for a while, I might start recognising patterns of irony or sarcasm, but that is not the case for most people I
+talk to. This often makes me read jokes as if they were serious, and has caused a lot of annoyance for others. Because
+of this, I always prefer if people use emojis or emotes when chatting, or tell me whether something is a joke in a
+'face-to-face' conversation. I feel awful when there has been a joke I didn't get, both because it is embarrassing for
+me when getting called out about it, but also because most people don't understand that I'm not trying to be rude, I
+just can't understand jokes.
 
-one of the things I hate with myself is that I cant figure out if something is a joke or if it's serious, even irl - and it kinda comes with this embarrassment which i dont like, because people dont understand that i quite literally dont get jokes, even if i try to explain it to them
+Generally, I am pretty bad at 'reading the room' and understanding context or context clues from previous conversation.
+I also have trouble reading and understanding the tone of a conversation. I can't really tell if someone is angry at me
+or just making a funny comment. This can often make me join a conversation at an inappropriate time, or say things that
+might be perceived as rude, condescending or 'unnatural'. I often want to ask for context or more information about a
+subject, but I've come to the realisation that more often than not, the other members of the conversation don't feel
+it's appropriate to ask for information. I often get replies like 'stop putting your mose in other people's business'
+even though all I wanted was to understand what the conversation is about.
 
-if the person talking is someone I know, I may sometimes be able to get some jokes or irony based on how they usually talk and their personality, if i set off a lot of time, but i'd never have a chance at recognising irony in someone i dont know
-
-some people might not have "read the room" the same as you, or not read the entire context. So I can totally see either side happening. Though I do see myself struggling to know that that was a joke if you didn't tell me that outright
-
-Tone is very hard to express in a way everyone understands the same
-
-and another thing that i struggle with a lot and that really impacts me: not being able to understand context or base principles without them being specifically told to me, because then i remain with less knowledge than others in a given situation, and more often than its not appropriate to ask for information, as that usually just makes people label me as "puttng my nose in others business" or something similar, and me being percieved in a bad way when all i wanted was context
-
-and its not just me missing out on a lot of context, its me not getting context clues that should be really obvious from the get go, that "everyone else" understands
-
-missing context clues that someone is going to continue talking, I could have asked "are you done?" but that could be seen as rude. And is definitely not "natural" in a conversation
-
-Other fun things include being asked "why did you do that?" and my answer is genuinely "I don't know" because my brain (who I perceive as separate from me) just told me to do it. It really makes me feel like a kid though :(
-
-why first response would be "what is that?" or "what do you mean"
-
-what i would get back is usually along the lines of "you know what i mean" or "are you dumb"
-
-trauma about people leaving me
-
-'half-baked' projects or results
+Because of this, I have always kind of 'lived in the shadow', avoided social interaction and not attended social events.
+This has made me miss out on a lot of the social development, and makes me struggle with what's considered 'new and
+cool' at certain times. It also makes me not understand certain phrases or principles, even though they might be 'really
+obvious' to most people. I often have to ask questions like 'what does that mean?' or 'can you explain/elaborate?',
+which usually just ends in me getting a response along the lines of 'you know what I mean' or 'are you dumb?'. This is
+fairly taxing for me, especially if I get told that 'everyone else' understands it or that it is 'obvious', as it paints
+a picture that I am less intelligent than others in a given situation. Even though I might have less social knowledge
+than many others, feeling less intelligent does nothing but harm me.
 
 ### Psychopathy
 
