@@ -153,6 +153,16 @@ than many others, feeling less intelligent does nothing but harm me.
 
 ### Psychopathy
 
+I also consider myself a psychopath. This is not something I have talked to a medical professional about, but I have
+mentioned it for several friends and family members, some of which work within or study healthcare, and they find it
+plausible that I am, medically, a psychopath.
+
+The word 'psychopath' gets thrown around a lot, and it has sort of lost its meaning, so let me briefly explain what I
+mean by it in this context: '_Psychopathy, sometimes considered synonymous with sociopathy, is characterized by
+persistent antisocial behavior, impaired empathy and remorse, and bold, disinhibited, and egotistical traits_'. This is
+the opening sentence in the [Wikipedia article](https://en.wikipedia.org/wiki/Psychopathy) about psychopathy, and I find
+it to fairly accurately describe my behaviour.
+
 > TODO
 
 ### Depression
