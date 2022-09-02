@@ -2,7 +2,7 @@
 
 [![Author](/assets/images/authors/Soni.png)](https://twitter.com/soni801_)
 
-**Last updated 19/08/2022** (dd/mm/yyyy)
+**Last updated 02/09/2022** (dd/mm/yyyy)
 
 ---
 
@@ -163,8 +163,19 @@ persistent antisocial behavior, impaired empathy and remorse, and bold, disinhib
 the opening sentence in the [Wikipedia article](https://en.wikipedia.org/wiki/Psychopathy) about psychopathy, and I find
 it to fairly accurately describe my behaviour.
 
-> TODO
+You see, not only am I bad at reading emotions, I am also bad at expressing them. And crucially, I am bad at when to
+express them. I very rarely feel bad for others. Not because I want to be rude, but because it is very difficult. It is
+just not a natural thought in my head to feel bad for others. Similarly, I very rarely feel remorse. This is partially
+because I am not able to tell if my actions has hurt others (because of my social incompetence), but also because of
+this psychopathy.
+
+The combination of ADHD and psychopathy is not exactly the greatest. Overall, it just makes me an unfunny person to talk
+to, especially if I don't know you too well. I miss a lot of references and tonal hints, and act inappropriately. But in
+the end, it isn't really anything I can do something about. The best I can do is to inform you about it, so you can at
+least understand it, but that's about it. If I'm being an idiot while you're talking to me, I'm sorry, but there's not
+really anything I can do to help it.
 
 ### Depression
 
-> TODO
+With a lot of the conversational topics explained, I'd like to tell a bit more about myself and my experiences that
+ultimately lead to my decision-making.
