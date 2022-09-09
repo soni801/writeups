@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <!-- Metadata -->
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="/styles/article.css">
+        <title>About me</title>
+        <meta name="theme-color" content="#3ba3a1">
+
+        <!-- Link preview -->
+        <meta name="og:site_name" content="Soni's write-ups">
+        <meta name="og:title" content="About me">
+        <meta name="og:description" content="A short introduction, some (not so) fun facts, and some things you may want to keep in mind about me.">
+
+        <!-- Markdown support -->
+        <script type="module" src="https://cdn.jsdelivr.net/gh/zerodevx/zero-md@2/dist/zero-md.min.js"></script>
+    </head>
+    <body>
+        <!-- Header -->
+        <div id="header">
+            <a id="home" href="/"><img src="/assets/icons/house.svg" alt="Home"></a>
+        </div>
+
+        <!-- Title -->
+        <h1>About me</h1>
+
+        <!-- Content -->
+        <zero-md src="content.md">
+            <template>
+                <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/sindresorhus/github-markdown-css@4/github-markdown.min.css">
+                <link rel="stylesheet" type="text/css" href="/styles/markdown.css">
+            </template>
+        </zero-md>
+    </body>
+</html>
